@@ -1,12 +1,4 @@
-
-
-
 # Git Stats 📊
-  
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=# Git Stats 📊
   
 <table>
   <tr>
@@ -64,5 +56,3 @@
 
 [![](https://visitcount.itsvg.in/api?id=jenifarkhan2005-create&icon=5&color=0)](https://visitcount.itsvg.in)
 
-  
- 
